@@ -1,21 +1,19 @@
-# defispartan.dev
+# defispartan.xyz
 
-Home for defispartan, built with React + Next + TypeScript + Bun.
+Home for defispartan, built with React + Next + TypeScript.
 
 ## Install
 
-This project uses Bun as the default package manager, visit [bun.sh](https://bun.sh/) to get started.
-
-`bun install`
+`pnpm install`
 
 ## Run
 
-`bun run dev`
+`pnpm run dev`
 
 ## Build
 
-`bun run build`
+`pnpm run build`
 
 ## Serve Build Preview
 
-`bun run preview`
+`pnpm run preview`

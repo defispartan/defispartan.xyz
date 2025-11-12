@@ -6,7 +6,7 @@ const TextWriter = () => {
     const [text, setText] = useState('');
     const [index, setIndex] = useState(0);
     const [cursorVisible, setCursorVisible] = useState(true);
-    const textToWrite = 'defispartan.dev';
+    const textToWrite = 'defispartan.xyz';
     const delay = 50;
 
     useEffect(() => {
