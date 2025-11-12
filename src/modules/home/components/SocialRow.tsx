@@ -71,7 +71,7 @@ const SocialRow = () => {
       </div>
       <div className={styles.iconRow}>
         <a
-            href="https://tiktok.com/@defispartan.dev"
+            href="https://tiktok.com/@defispartan"
             className={`${styles.iconButton}`}
             >
             <Image

@@ -1,4 +1,4 @@
-# defispartan.dev
+# defispartan.xyz
 
 Home for defispartan, built with React + Next + TypeScript + Bun.
 
